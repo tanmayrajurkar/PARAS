@@ -1,4 +1,4 @@
-# ParkEase - Smart Parking Management System
+# PARAS
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://paras-v1.netlify.app)
 
@@ -16,7 +16,7 @@ A full-stack parking management solution with real-time availability tracking, A
 ## Installation 🛠️
 
 ```bash
-git clone https://github.com/yourusername/parkease.git
+git clone https://github.com/tanmayrajurkar/PARAS.git
 cd parkease
 npm install
 ```
